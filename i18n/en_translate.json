@@ -1691,7 +1691,7 @@
 	"lang_auto_da_chon_file": "File selected",
 	"lang_auto_truong_hop_ban_chi_muon_cham_bai_lam_ma_hoc_sinh_to_tren_phieu_tra_loi_trac_nghiem_upload_file_bang_dap_an_len_azota_": "In case you only want to grade the work that students color on the multiple choice answer sheet. Upload the answer sheet file to Azota (",
 	"lang_auto_la_cac_file_chua_noi_dung_cau_hoi_dap_an_hoac_mo_ta_ve_bai_tap_ban_co_the_upload_bat_ky_file_nao_ban_co_ma_khong_can_quan_tam_den_dinh_dang_noi_dung_trong_file_azota_se_tu_dong_nhan_dang_da_so_cac_mau_hay_su_dung_tuy_nhien_de_co_chat_luong_de_bai_tot_nhat_moi_ban_tham_khao": "These are files that contain questions, answers, or descriptions of exercises. You can upload any file you have, regardless of the content format in the file. Azota will automatically recognize most frequently used patterns. However, for the best quality, please refer to it",
-	"lang_auto_tu_soan_de_tren_azota": "Self-composed topics on Azota",
+	"lang_auto_tu_soan_de_tren_azota": "Self-composed topics",
 	"lang_auto_vui_long_tai_dung_mau_file_excel": "Please download the correct excel file template",
 	"lang_auto_ma_de_khong_duoc_bo_trong": "The code cannot be left blank",
 	"lang_auto_ma_de_dai_toi_da_3_ky_tu": "Code is up to 3 characters long",
