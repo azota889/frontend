@@ -1,0 +1,4 @@
+{
+    "locales": ["vi", "en", "id"],
+    "prefix": "MY_PREFIX"
+}
