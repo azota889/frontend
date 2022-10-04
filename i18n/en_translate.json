@@ -1493,6 +1493,7 @@
 	"lang_auto_bo_qua_va_ve_trang_chu": "Skip and go to home page",
 	"lang_auto_tao_lai_ma_qrcode": "Regenerate Qrcode",
 	"lang_auto_vui_long_nhap_dung_dinh_dang_email": "Please enter the correct email format.",
+	"lang_auto_email_ban_nhap_qua_dai": "Your email too long. Try someone else!",
 	"lang_auto_dang_ky_tai_khoan": "Sign up for an account",
 	"lang_auto_toi_la_hoc_sinh": "I am a student",
 	"lang_auto_toi_la_giao_vien": "I am a teacher",
@@ -1553,7 +1554,7 @@
 	"lang_auto_dong_nghia_voi_viec_ban_da_hieu_ve_cac_dieu_sau": "means that you have understood the following",
 	"lang_auto_1_ma_qrcode_quen_mat_khau_la_duy_nhat_khi_ban_tao_moi_ma_ma_cu_se_khong_con_gia_tri_su_dung": "1. Qrcode forgot password is unique. When you create a new code, the old code is no longer valid.",
 	"lang_auto_2_ma_qrcode_quen_mat_khau_la_chia_khoa_vui_long_khong_chia_se_hay_de_nguoi_khac_co_duoc_ma_qrcode_cua_ban": "2. Qrcode forgot password is the key. Please do not share or let others get your qrcode.",
-	"lang_auto_sau_khi_tao_thanh_cong_vui_long_tai_xuong_ma_qrcode_de_su_dung_cho_muc_dich_quen_mat_khau_sau_nay": "After successful creation, please download the Qrcode to use for later forgetting password purposes.",
+	"lang_auto_sau_khi_tao_thanh_cong_vui_long_tai_xuong_ma_qrcode_de_su_dung_cho_truong_hop_quen_mat_khau_sau_nay": "After successful creation, please download the Qrcode to use for later forgetting password purposes.",
 	"lang_auto_ma_qrcode_da_ton_tai_ban_khong_the_xem_ma_hien_tai_tao_ma_moi_trong_truong_hop_ban_da_mat_ma_qrcode": "The QR code already exists. You cannot view the current code. Generate a new code in case you have lost your Qrcode.",
 	"lang_auto_ban_chua_tao_ma_qrcode_dung_trong_truong_hop_quen_mat_khau_vui_long_tao_ma_qrcode_moi": "You have not created a QR code to use in case you forget your password. Please generate a new Qrcode.",
 	"lang_auto_khong_co_ket_qua_phan_hoi": "No response results.",
@@ -1978,7 +1979,6 @@
 	"lang_auto_sua_lop": "Edit class",
 	"lang_auto_nhan_ban_lop": "Layer Cloning",
 	"lang_auto_dua_vao_luu_tru": "Put into storage",
-	"lang_auto_nhap_2_lop_thanh_1": "Merge 2 layers into 1",
 	"lang_auto_xoa_lop": "Delete class",
 	"lang_auto_si_so": "Numbers",
 	"lang_auto_nam_hoc": "School year",
@@ -2634,5 +2634,7 @@
 	"lang_auto_show_list": "Show by list",
 	"lang_auto_show_unit": "Show by unit",
 	"lang_auto_upload_file": "Upload file",
-  "lang_core_missing_permission": "Bạn không có quyền thực hiện chức năng chia sẻ này"
+  "lang_core_missing_permission": "Bạn không có quyền thực hiện chức năng chia sẻ này",
+	"lang_payment_history_azo_number": "Azo payment history",
+	"lang_auto_tao_nhom": "Create group"
 }
