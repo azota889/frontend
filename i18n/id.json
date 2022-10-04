@@ -1504,7 +1504,7 @@
   "lang_auto_khong_upload_duoc_anh_ten": "Không Upload được ảnh (Tên",
   "lang_auto__brackets_vui_long_thu_lai_sau_loi_split_lang": ")! Vui lòng thử lại sau! Lỗi: [SPLIT_LANG]",
   "lang_auto_dong_bo_du_lieu_khong_thanh_cong_vui_long_an_f5_hoac_tai_lai_trang": "Đồng bộ dữ liệu không thành công. Vui lòng ấn F5 hoặc tải lại trang!",
-  "lang_auto_them_bai_lam_tu_luan_thanh_cong": "Thêm bài làm tự luận thành công",
+  "lang_auto_them_bai_lam_tu_luan_thanh_cong": "Cập nhật bài làm tự luận thành công",
   "lang_auto_nop_bai_thi_tu_luan_upper": "NỘP BÀI THI TỰ LUẬN",
   "lang_auto_bai_thi": "Bài thi",
   "lang_auto_ten_thi_sinh": "Tên thí sinh",
@@ -1586,6 +1586,7 @@
   "lang_auto_sua_giao_vien": "Sửa giáo viên",
   "lang_auto_chua_co_file_duoc_chon": "Chưa có file được chọn",
   "lang_auto_keo_tha_file_excel_hoac_click_de_chon_file": "Kéo thả file Excel hoặc Click để chọn file",
+	"lang_auto__click_de_chon_file_excel": "Nhấn để tải lên file excel",
   "lang_auto_tai_file_bieu_mau": "Tải file biểu mẫu",
   "lang_auto_so_dien_thoai": "Số điện thoại",
   "lang_auto_ban_phai_nhap_so_dien_thoai": "Bạn phải nhập số điện thoại.",
@@ -1692,7 +1693,7 @@
   "lang_auto_dong_nghia_voi_viec_ban_da_hieu_ve_cac_dieu_sau": "đồng nghĩa với việc bạn đã hiểu về các điều sau",
   "lang_auto_1_ma_qrcode_quen_mat_khau_la_duy_nhat_khi_ban_tao_moi_ma_ma_cu_se_khong_con_gia_tri_su_dung": "1. Mã Qrcode quên mật khẩu là duy nhất. Khi bạn tạo mới mã, mã cũ sẽ không còn giá trị sử dụng.",
   "lang_auto_2_ma_qrcode_quen_mat_khau_la_chia_khoa_vui_long_khong_chia_se_hay_de_nguoi_khac_co_duoc_ma_qrcode_cua_ban": "2. Mã Qrcode quên mật khẩu là chìa khoá. Vui lòng không chia sẻ hay để người khác có được mã qrcode của bạn.",
-  "lang_auto_sau_khi_tao_thanh_cong_vui_long_tai_xuong_ma_qrcode_de_su_dung_cho_truong_hop_quen_mat_khau_sau_nay": "Sau khi tạo thành công, vui lòng tải xuống mã Qrcode để sử dụng cho trường hợp quên mật khẩu sau này.",
+  "lang_auto_sau_khi_tao_thanh_cong_vui_long_tai_xuong_ma_qrcode_de_su_dung_cho_muc_dich_quen_mat_khau_sau_nay": "Sau khi tạo thành công, vui lòng tải xuống mã Qrcode để sử dụng cho mục đích quên mật khẩu sau này.",
   "lang_auto_ma_qrcode_da_ton_tai_ban_khong_the_xem_ma_hien_tai_tao_ma_moi_trong_truong_hop_ban_da_mat_ma_qrcode": "Mã Qrcode đã tồn tại. Bạn không thể xem mã hiện tại. Tạo mã mới trong trường hợp bạn đã mất mã Qrcode.",
   "lang_auto_ban_chua_tao_ma_qrcode_dung_trong_truong_hop_quen_mat_khau_vui_long_tao_ma_qrcode_moi": "Bạn chưa tạo mã Qrcode dùng trong trường hợp quên mật khẩu. Vui lòng tạo mã Qrcode mới.",
   "lang_auto_khong_co_ket_qua_phan_hoi": "Không có kết quả phản hồi.",
@@ -2825,7 +2826,7 @@
   "lang_auto_luu_nhap": "Lưu nháp",
   "lang_auto_tai_khoan_an_danh": "Tài khoản ẩn danh",
   "lang_auto_ban_vui_long_chon_dung_ten_cua_minh_he_thong_se_ghi_nhan_bai_lam_cua_ban_theo_ten_da_chon": "Bạn vui lòng chọn đúng tên của mình, hệ thống sẽ ghi nhận bài làm của bạn theo tên đã chọn",
-  "lang_auto_hoc_sinh_nay_da_duoc_chon": "Học sinh này đã dược chọn",
+  "lang_auto_hoc_sinh_nay_da_duoc_chon": "Học sinh này đã được chọn",
   "lang_auto_qrcode_quen_mat_khau": "QrCode quên mật khẩu",
   "lang_auto_quay_lai_dashboard": "Quay lại màn hình chính",
 
@@ -2854,5 +2855,8 @@
   "lang_teacher_edit_content_exam": "Sửa nội dung",
 	"lang_teacher_set_tags": "Gắn nhãn",
   "lang_teacher_apply_all_tags": "Áp dụng cho các câu còn lại,",
-	"lang_auto_tao_nhom": "Tạo nhóm"
+	"lang_auto_tao_nhom": "Tạo nhóm",
+  "lang_auto_co_giao": "Cô",
+  "lang_auto_khi_nhan_xac_nhan_tap_tin_se_bi_xoa_vinh_vien_khoi_he_thong": "Khi nhấn xác nhận tập tin sẽ bị xóa vĩnh viễn khỏi hệ thống",
+  "lang_auto_ra_khoi_thung_rac": "ra khỏi thùng rác"
 }
